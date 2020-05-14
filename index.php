@@ -29,9 +29,9 @@
                     <ul>
                     	<li><a href=""><i class="fas fa-home"></i></a></li>
                         <li><a href="#">INÍCIO</a></li>
-                        <li><a href="#">O GOVERNO</a></li>
-                        <li><a href="#">SERVIÇOS</a></li>
-                        <li><a href="#">AGÊNCIA DE NOTÍCIAS</a></li>
+                        <li><a href="#">INSTITUCIONAL</a></li>
+                        <li><a href="#">NORMAS</a></li>
+                        <li><a href="#">FALE CONOSCO</a></li>
                         <li><a href="#">PROJETOS E A&Ccedil;&Otilde;ES</a></li>
 
                         <li></li>
