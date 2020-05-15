@@ -69,20 +69,32 @@ color: #fff;
 	width: 100%;
 }
 
+
+.banner_pequeno{
+	margin-top: 30px;
+	text-align: center;
+}
+
+
+
 hr{
 	color:#000;
 }
 
+.noticia_letra{
+	margin-top: 30px;
+}
 
-.banner_links{
-	background-color: #ccc000;
+.banner_noticia{
+
+	background-color: #132e57;
 	height: 500px;
 	width: 100%;
 }
 
 .quadros{
 
-	margin-left: 500px;
+	margin-left: 250px;
 }
 
 .row .quadro01{
@@ -90,7 +102,7 @@ hr{
 	height: 300px;
 	width: 100%;
 	margin-top: 50px;
-	box-shadow: 5px 5px #000;
+
 }
 
 .row .quadro02{
@@ -98,7 +110,7 @@ hr{
 	height: 300px;
 	width: 100%;
 	margin-top: 50px;
-	box-shadow: 5px 5px #000;
+
 }
 
 .row .quadro03{
@@ -106,7 +118,7 @@ hr{
 	height: 300px;
 	width: 100%;
 	margin-top: 50px;
-	box-shadow: 5px 5px #000;
+
 }
 
 
@@ -119,10 +131,25 @@ hr{
 }
 
 
+.links{
+	height: 500px;
+	background-color: #f5f5f5;
+}
+
+.card{
+	width: 400px;
+	margin-left: 20%;
+	height: 200px;
+}
+
+.card-title{
+	text-align: center;
+}
+
 
 .rodape{
 	border-top: 2px solid #00afef;
-	background-color: #035aa6;
+	background-color: #212529;
 	height: 500px;
 	width: 100%;
 }
