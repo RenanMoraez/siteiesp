@@ -73,9 +73,12 @@ color: #fff;
 .banner_pequeno{
 	margin-top: 30px;
 	text-align: center;
+
 }
 
-
+.img_banner{
+	box-shadow: 1px 1px 2px 0.5px;
+}
 
 hr{
 	color:#000;
@@ -147,9 +150,36 @@ hr{
 }
 
 
+.left{
+	margin-left: 100px;
+}
+
+
+.left img{
+width: 400px;
+margin-top: 40px;
+
+}
+
+
+.right h3{
+	font-size: 17px;
+    line-height: 24px;
+    color: #fff;
+}
+
+.right{
+	margin-right: 100px;
+	margin-top: -60px;
+	float: right;
+	color: #fff;
+	text-align: right;
+}
+
+
 .rodape{
 	border-top: 2px solid #00afef;
 	background-color: #212529;
-	height: 500px;
+	height: 350px;
 	width: 100%;
 }

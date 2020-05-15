@@ -54,7 +54,7 @@
 <!-- banner pequeno largo -->
 <section>
 	<div class="container banner_pequeno">
-		<img src="assets/images/banner.png">
+		<img class="img_banner" src="assets/images/banner.png">
 	</div>
 </section>
 
@@ -161,10 +161,17 @@
 
 <!-- rotape -->
 <footer class="rodape">
+<div class="left">
+	<img src="assets/images/logo_marca_horizontal_branca.png">	
+</div>
+
+<div class="right">
+	<h3>INSTITUTO DE ENSINO <br> DE SEGURANÇA PÚBLICA <br> DO ESTADO DO PARÁ</h3>
+</div>
 
 <div id="chat"></div>
 </footer>
-<script src='http://186.228.21.253:8082/chattsj/app/disquedenuncia.js' type="text/javascript"></script>
+<script src="http://186.228.21.253:8082/chattsj/app/disquedenuncia.js" type="text/javascript"></script>
 <script type="text/javascript" href="/assets/js/bootstrap.bundle.js"></script>
 <script type="text/javascript" href="/assets/js/bootstrap.js"></script>
 </body>
