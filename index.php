@@ -43,12 +43,11 @@
 
 <!-- Slide grande -->
 
+
 <section>
-	<div class="row">
-		<div class="col">
-			<div class="cor01"></div>
-		</div>		
-	</div>
+
+	<div class="cor01"></div>
+
 </section>
 
 
