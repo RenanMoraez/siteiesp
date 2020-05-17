@@ -88,12 +88,25 @@ hr{
 	margin-top: 30px;
 }
 
+.noticia_letra h1{
+	border-bottom: 3px solid #00afef;
+	color: #212529;
+}
+
 .banner_noticia{
 
 	background-color: #132e57;
 	height: 500px;
 	width: 100%;
 }
+
+.legenda_noticia{
+	color: #fff;
+	background-color: rgba(0, 0, 0, 0.5);
+	text-align: justify;
+	
+}
+
 
 .quadros{
 

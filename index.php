@@ -72,13 +72,22 @@
  	<div class="banner_noticia">
 			<div class="container row quadros">
 				<div class="col-sm-4">
-					<div class="quadro01 shadow-lg bg-light"></div>
+					<div class="quadro01 shadow-lg bg-light">
+					
+					<p class="legenda_noticia">
+						IESP RECEBE VISITA DO CAP BM HELIO ALMEIDA E DO CB BM LEONARDO.</p>
+					
+					</div>
 				</div>
 				<div class="col-sm-4">
-					<div class="quadro02 shadow-lg bg-light"></div>
+					<div class="quadro02 shadow-lg bg-light">
+					<p class="legenda_noticia">IESP REALIZA REUNIÃO COM EQUIPE DO DETRAN PARA AJUSTES DO CURSO DE FORMAÇÃO DE AGENTES DE TRÂNSITO</p>
+					</div>
 				</div>
 				<div class="col-sm-4">
-					<div class="quadro03 shadow-lg bg-light"></div>
+					<div class="quadro03 shadow-lg bg-light">
+					<p class="legenda_noticia">OUVIDORIA DO SIEDS REALIZA VISITA AO IESP</p>
+					</div>
 				</div>
 
 				<button class="btn btn-primary botao_noticia">VEJA MAIS +</button>
@@ -157,6 +166,15 @@
 </div>
 
 </section>
+
+<section>
+<div class="container noticia_letra">
+		<h1><i class="fas fa-camera-retro"></i>  Galeria</h1>
+		<hr>
+	</div>
+
+</section>
+
 
 
 <!-- rotape -->
