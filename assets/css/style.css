@@ -137,6 +137,32 @@ hr{
 
 }
 
+div .card-text{
+	text-align: center;
+}
+
+a{
+ color: #fff;
+
+}
+
+.botao-bloco{
+	text-align: center;
+	margin-top: -10px;
+}
+
+.btn-access{
+	width: 100px;
+	background-color: #00afef;
+	border: none; 
+}
+
+
+.btn-access:hover{
+	background-color: #00EEFF;
+	color: #fff;
+}
+
 
 .botao_noticia{
 	height: 50px;
@@ -161,6 +187,7 @@ hr{
 .card-title{
 	text-align: center;
 }
+
 
 
 .left{
@@ -188,6 +215,7 @@ margin-top: 40px;
 	color: #fff;
 	text-align: right;
 }
+
 
 
 .rodape{
