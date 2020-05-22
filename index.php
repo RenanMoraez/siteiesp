@@ -67,32 +67,10 @@
 <section class="noticiais">
 	<div class="container noticia_letra">
 		<h1><i class="far fa-newspaper"></i>  Notícias</h1>
-		<hr>
 	</div>
 
  	<div class="banner_noticia">
-			<div class="container row quadros">
-				<div class="col-sm-4">
-					<div class="quadro01 shadow-lg bg-light">
-					
-					<p class="legenda_noticia">
-						IESP RECEBE VISITA DO CAP BM HELIO ALMEIDA E DO CB BM LEONARDO.</p>
-					
-					</div>
-				</div>
-				<div class="col-sm-4">
-					<div class="quadro02 shadow-lg bg-light">
-					<p class="legenda_noticia">IESP REALIZA REUNIÃO COM EQUIPE DO DETRAN PARA AJUSTES DO CURSO DE FORMAÇÃO DE AGENTES DE TRÂNSITO</p>
-					</div>
-				</div>
-				<div class="col-sm-4">
-					<div class="quadro03 shadow-lg bg-light">
-					<p class="legenda_noticia">OUVIDORIA DO SIEDS REALIZA VISITA AO IESP</p>
-					</div>
-				</div>
 
-				<button class="btn btn-primary botao_noticia">VEJA MAIS +</button>
-			</div>
 		</div>
 </section>
 
@@ -189,7 +167,6 @@
 <section>
 <div class="container noticia_letra">
 		<h1><i class="fas fa-camera-retro"></i>  Galeria</h1>
-		<hr>
 	</div>
 
 </section>
@@ -205,6 +182,7 @@
 	<h3>INSTITUTO DE ENSINO <br> DE SEGURANÇA PÚBLICA <br> DO ESTADO DO PARÁ</h3>
 	<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FIesp2018%2F&tabs=eventos&width=340&height=154&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="154" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 </div>
+
 </footer>
 
 <script src="http://186.228.21.253:8082/chattsj/app/disquedenuncia.js" type="text/javascript"></script>
