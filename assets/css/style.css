@@ -35,6 +35,8 @@
 	cursor:pointer;
 
 }
+
+
 .barramenu a{
 text-decoration: none;
 color: #fff;
@@ -45,14 +47,10 @@ color: #fff;
 
 }
 
-
 .cabecalho .logo{
 	height: 60px;
 }
 
-.slide{
-	width: 600px;
-}
 .logo-direito{
 	margin-top: 30px;
 }
@@ -62,12 +60,11 @@ color: #fff;
 	width: 400px;
 }
 
-.cor01{
 
-	background-color: #000;
-	height: 500px;
-	width: 100%;
+.container-fluid{
+	padding: 0;
 }
+
 
 
 .banner_pequeno{
@@ -108,34 +105,19 @@ hr{
 }
 
 
-.quadros{
 
-	margin-left: 250px;
+.colunas-not{
+	padding: 20px;
+	margin: auto;
+	
+	
 }
 
-.row .quadro01{
-	background-color: #fff;
-	height: 300px;
-	width: 100%;
-	margin-top: 50px;
-
+div div .card-body2{
+margin: auto;
+background-color: #fff;
 }
 
-.row .quadro02{
-	background-color: #fff;
-	height: 300px;
-	width: 100%;
-	margin-top: 50px;
-
-}
-
-.row .quadro03{
-	background-color: #fff;
-	height: 300px;
-	width: 100%;
-	margin-top: 50px;
-
-}
 
 div .card-text{
 	text-align: center;
