@@ -91,18 +91,18 @@
 <section class="brasao">
 	<div class="container">
 		<ul class="brasoes">
-			<li><img src="assets/images/brasao/1.png"></li>
-			<li><img src="assets/images/brasao/2.png"></li>
-			<li><img src="assets/images/brasao/3.png"></li>
-			<li><img src="assets/images/brasao/4.png"></li>
-			<li><img src="assets/images/brasao/5.png"></li>
-			<li><img src="assets/images/brasao/6.jpg"></li>
-			<li><img src="assets/images/brasao/7.png"></li>
+			<li><img src="assets/images/brasao/1.png" title="Polícia Militar do Estado do Pará"></li>
+			<li><img src="assets/images/brasao/2.png" title="Corpo de Bombeiros Militar do Estado do Pará"></li>
+			<li><img src="assets/images/brasao/3.png" title="Polícia Civil do Estado do Pará"></li>
+			<li><img src="assets/images/brasao/4.png" title="Secretaria de Estado de Administração Penitenciária"></li>
+			<li><img src="assets/images/brasao/5.png" title="Departamento de Transito do Estado do Pará"></li>
+			<li><img src="assets/images/brasao/6.jpg" title="Centro de Perícias Científicas Renato Chaves"></li>
+			<li><img src="assets/images/brasao/7.png" title="Academia da Polícia Civil do Pará"></li>
 			<li><img src="assets/images/brasao/8.png"></li>
 			<li><img src="assets/images/brasao/9.png"></li>
 			<li><img src="assets/images/brasao/10.png"></li>
 			<li><img src="assets/images/brasao/11.png"></li>
-			<li><img src="assets/images/brasao/12.png"></li>
+			<li><img src="assets/images/brasao/12.png" title="Escola de Administração Penitenciária"></li>
 
 
 		</ul>
@@ -274,7 +274,9 @@
 </section>
 
 
-<div id="chat"></div>
+<div id="chat">
+	
+</div>
 <!-- rotape -->
 <footer class="rodape">
 <div class="left">
@@ -285,8 +287,11 @@
 	<!-- IESP Iframe -->
 	<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FIesp2018%2F&tabs=eventos&width=340&height=154&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="154" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
 </div>
-
 </footer>
+
+
+
+
 
 <script src="http://186.228.21.253:8082/chattsj/app/disquedenuncia.js" type="text/javascript"></script>
 <script type="text/javascript" src="assets/js/jquery.js"></script>
