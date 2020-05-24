@@ -66,6 +66,7 @@
 			</div>
 		</div>
 		<div class="carousel-item">
+
 			<img class="" src="assets/images/festa.jpg" alt="segundo slide">
 		</div>
 		<div class="carousel-item">
@@ -86,13 +87,37 @@
 </div>
 
 
+
+<section class="brasao">
+	<div class="container">
+		<ul class="brasoes">
+			<li><img src="assets/images/brasao/1.png"></li>
+			<li><img src="assets/images/brasao/2.png"></li>
+			<li><img src="assets/images/brasao/3.png"></li>
+			<li><img src="assets/images/brasao/4.png"></li>
+			<li><img src="assets/images/brasao/5.png"></li>
+			<li><img src="assets/images/brasao/6.jpg"></li>
+			<li><img src="assets/images/brasao/7.png"></li>
+			<li><img src="assets/images/brasao/8.png"></li>
+			<li><img src="assets/images/brasao/9.png"></li>
+			<li><img src="assets/images/brasao/10.png"></li>
+			<li><img src="assets/images/brasao/11.png"></li>
+			<li><img src="assets/images/brasao/12.png"></li>
+
+
+		</ul>
+	</div>
+</section>
+
+
+
+
 <!-- banner pequeno largo -->
 <section>
 	<div class="container banner_pequeno">
 		<img class="img_banner" src="assets/images/banner.png">
 	</div>
 </section>
-
 
 
 
