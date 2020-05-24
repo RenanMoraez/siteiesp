@@ -4,8 +4,8 @@
 	<title>IESP: Novo Site</title>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-	<link rel="stylesheet" href="assets/css/style.css">
+	<link rel="stylesheet" href="assets/css/bootstrap.min.css"/>
+	<link rel="stylesheet" href="assets/css/style.css"/>
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 </head>
 <body>
@@ -66,10 +66,10 @@
 			</div>
 		</div>
 		<div class="carousel-item">
-			<img class="" src="assets/images/bombeiros.jpg" alt="segundo slide">
+			<img class="" src="assets/images/festa.jpg" alt="segundo slide">
 		</div>
 		<div class="carousel-item">
-			<img class="" src="assets/images/bombeiros.jpg" alt="terceiro slide">
+			<img class="" src="assets/images/festa.jpg" alt="terceiro slide">
 		</div>
 	</div>
 	<a class="carousel-control-prev" href="#carroseltopo" role="button" data-slide="prev">
@@ -264,7 +264,7 @@
 </footer>
 
 <script src="http://186.228.21.253:8082/chattsj/app/disquedenuncia.js" type="text/javascript"></script>
-<script type="text/javascript" href="assets/js/bootstrap.bundle.js"></script>
-<script type="text/javascript" href="assets/js/bootstrap.js"></script>
+<script type="text/javascript" src="assets/js/jquery.js"></script>
+<script type="text/javascript" src="assets/js/bootstrap.bundle.js"></script>
 </body>
 </html>
