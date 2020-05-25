@@ -57,7 +57,8 @@ color: #fff;
 .logo-esquerdo{
 	margin-top: 50px;
 	float: right;
-	width: 400px;
+	width: 100%;
+	max-width: 400px;
 }
 
 
@@ -123,6 +124,7 @@ hr{
 	background-color: #132e57;
 	height: 500px;
 	width: 100%;
+	max-width:1420px;
 }
 
 .legenda_noticia{
@@ -136,7 +138,8 @@ hr{
 
 .colunas-not{
 	padding: 20px;
-	margin: auto;
+	max-width: 1260px;
+	width: 100%;
 	
 	
 }
@@ -144,6 +147,8 @@ hr{
 div div .card-body2{
 margin: auto;
 background-color: #fff;
+max-width: 1260px;
+width: 100%;
 }
 
 
@@ -186,12 +191,15 @@ a{
 .links{
 	height: 500px;
 	background-color: #f5f5f5;
+	margin: 0;
 }
 
 .card{
-	width: 400px;
+	width: 100%;
 	margin-left: 20%;
 	height: 200px;
+	max-width: 300px;
+
 }
 
 .card-title{
