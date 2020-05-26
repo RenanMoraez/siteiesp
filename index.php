@@ -104,10 +104,10 @@
                 <li><img src="assets/images/brasao/5.png" title="Departamento de Transito do Estado do Pará"></li>
                 <li><img src="assets/images/brasao/6.jpg" title="Centro de Perícias Científicas Renato Chaves"></li>
                 <li><img src="assets/images/brasao/7.png" title="Academia da Polícia Civil do Pará"></li>
-                <li><img src="assets/images/brasao/8.png"></li>
-                <li><img src="assets/images/brasao/9.png"></li>
-                <li><img src="assets/images/brasao/10.png"></li>
-                <li><img src="assets/images/brasao/11.png"></li>
+                <li><img src="assets/images/brasao/8.png" title="Academia da Polícia Militar do Pará"></li>
+                <li><img src="assets/images/brasao/9.png" title="Centro de Formação e Aperfeiçoamento de Praças"></li>
+                <li><img src="assets/images/brasao/10.png" title="Academia de Bombeiro Militar"></li>
+                <li><img src="assets/images/brasao/11.png" title="Centro de Formação e Aperfeiçoamento e Especialização"></li>
                 <li><img src="assets/images/brasao/12.png" title="Escola de Administração Penitenciária"></li>
 
 
@@ -207,26 +207,28 @@
     <!-- Links -->
     <section>
          <div class="container noticia_letra">
-            <h1><i class="fas fa-camera-retro"></i> Galeria</h1>
+            <h1><i class="fas fa-camera-retro"></i> Link</h1>
         </div>
+        <div class="container-fluid">
         <div class="row mx-auto">
         <div class="col">
-            <a href="#"><img src="assets/images/iesp2.png" alt=""></a>
+            <a href="#"><img class="rounded-circle link" src="assets/images/iesp2.png" alt=""></a>
         </div>
         <div class="col">
-            <a href="#"><img src="assets/images/iesp3.png" alt=""></a>
+            <a href="#"><img class="rounded-circle link" src="assets/images/iesp3.png" alt=""></a>
+        </div> 
+        <div class="col">
+            <a href="#"><img class="rounded-circle link" src="assets/images/iesp4.png" alt="" ></a>
         </div>
         <div class="col">
-            <a href="#"><img src="assets/images/iesp4.png" alt="" ></a>
+            <a href="#"><img class="rounded-circle link" src="assets/images/iesp5.png" alt=""></a>
         </div>
         <div class="col">
-            <a href="#"><img src="assets/images/iesp5.png" alt=""></a>
+            <a href="#"><img class="rounded-circle link" src="assets/images/iesp6.png" alt=""></a>
         </div>
         <div class="col">
-            <a href="#"><img src="assets/images/iesp6.png" alt=""></a>
+            <a href="#"><img class="rounded-circle link" src="assets/images/iesp7.png" alt="" ></a>
         </div>
-        <div class="col">
-            <a href="#"><img src="assets/images/iesp7.png" alt="" ></a>
         </div>
         </div>
     </section>
@@ -235,7 +237,9 @@
         <div class="container noticia_letra">
             <h1><i class="fas fa-camera-retro"></i> Galeria</h1>
         </div>
+        <div class="galeria">
 
+        </div>
     </section>
 
 
