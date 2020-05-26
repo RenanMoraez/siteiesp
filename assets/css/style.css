@@ -62,6 +62,10 @@ color: #fff;
 }
 
 
+.carousel img{
+	width: 100%;
+}
+
 .container-fluid{
 	padding: 0;
 }
@@ -71,9 +75,10 @@ color: #fff;
 .banner_pequeno{
 	margin-top: 30px;
 	text-align: center;
-
 }
-
+.banner_pequeno img{
+	width: 100%;
+}
 
 .brasao{
 	margin-top: 30px;
@@ -106,10 +111,6 @@ color: #fff;
 	box-shadow: 1px 1px 2px 0.5px;
 }
 
-hr{
-	color:#000;
-}
-
 .noticia_letra{
 	margin-top: 30px;
 }
@@ -124,8 +125,10 @@ hr{
 	background-color: #132e57;
 	height: 500px;
 	width: 100%;
-	max-width:1420px;
+	/* max-width:1420px; */
 }
+
+
 
 .legenda_noticia{
 	color: #fff;
@@ -134,12 +137,24 @@ hr{
 	
 }
 
+.menu-bola{
+	height: 250px;
+	border-radius: 50%;
+	background-color: #263859;
+	
+}
 
+.bola-tam{
+	width: 800px;
+	margin-left: 500px;
+
+}
 
 .colunas-not{
-	padding: 20px;
-	max-width: 1260px;
+	margin-left: 300px;
+	padding: 20px;	
 	width: 100%;
+	max-width: 1500px;
 	
 	
 }
@@ -156,55 +171,7 @@ div .card-text{
 	text-align: center;
 }
 
-a{
- color: #fff;
 
-}
-
-.botao-bloco{
-	text-align: center;
-	margin-top: -10px;
-}
-
-.btn-access{
-	width: 100px;
-	background-color: #00afef;
-	border: none; 
-}
-
-
-.btn-access:hover{
-	background-color: #00EEFF;
-	color: #fff;
-}
-
-
-.botao_noticia{
-	height: 50px;
-	width: 300px;
-	border-radius: 50px;
-	margin-top: 60px;
-	margin-left: 400px;
-}
-
-
-.links{
-	height: 500px;
-	background-color: #f5f5f5;
-	margin: 0;
-}
-
-.card{
-	width: 100%;
-	margin-left: 20%;
-	height: 200px;
-	max-width: 300px;
-
-}
-
-.card-title{
-	text-align: center;
-}
 
 
 

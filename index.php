@@ -137,7 +137,7 @@
         <div class="banner_noticia">
             <div class="row colunas-not">
                 <!-- primeira coluna -->
-                <div class="col-sm-4">
+                <div class="col-sm-3">
                     <div class="card">
                         <img class="card-img-top" src="assets/images/imagem.png" alt="">
                         <div class="card-body2">
@@ -153,7 +153,7 @@
                     </div>
                 </div>
                 <!-- segunda coluna -->
-                <div class="col-sm-4">
+                <div class="col-sm-3">
                     <div class="card">
                         <img class="card-img-top" src="assets/images/imagem.png" alt="">
                         <div class="card-body2">
@@ -169,7 +169,22 @@
                     </div>
                 </div>
                 <!-- terceira coluna -->
-                <div class="col-sm-4">
+                <div class="col-sm-3">
+                    <div class="card">
+                        <img class="card-img-top" src="assets/images/imagem.png" alt="">
+                        <div class="card-body2">
+                            <div class="card-title">
+                                <h4>Lorem Ipsum</h4>
+                                <p class="card-text">
+                                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Beatae magnam unde fugit
+                                    incidunt reprehenderit commodi? Sapiente non maxime at quo recusandae ex optio
+                                    labore perspiciatis corporis quisquam, nostrum earum laudantium.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
                     <div class="card">
                         <img class="card-img-top" src="assets/images/imagem.png" alt="">
                         <div class="card-body2">
@@ -190,92 +205,31 @@
 
 
     <!-- Links -->
-    <!-- <section>
-
-        <div class="container">
+    <section>
+         <div class="container noticia_letra">
+            <h1><i class="fas fa-camera-retro"></i> Galeria</h1>
         </div>
-        <div class="links">
-            <div class="row">
-                <div class="col">
-                    <div class="card text-white bg-dark" style="max-width: 20rem; margin-top: 40px;">
-                        <div class="card-header"></div>
-                        <div class="card-body">
-                            <h3 class="card-title"><i class="fas fa-book-reader"></i><br>Biblioteca</h3>
-                            <p class="card-text">Acesse a nossa biblioteca</p>
-                            <div class="botao-bloco">
-                                <a href="#" role="button" class="btn btn-access">Acessar</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="card text-white bg-dark" style="max-width: 20rem; margin-top: 40px; ">
-                        <div class="card-header"></div>
-                        <div class="card-body">
-                            <h3 class="card-title"><i class="fas fa-graduation-cap"></i><br>Portal de Ensino</h3>
-                            <p class="card-text">Acesse o EAD IESP</p>
-                            <div class="botao-bloco">
-                                <a href="#" role="button" class="btn btn-access">Acessar</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="card text-white bg-dark" style="max-width: 20rem; margin-top: 40px; ">
-                        <div class="card-header"></div>
-                        <div class="card-body">
-                            <h3 class="card-title"><i class="fas fa-chalkboard-teacher"></i><br>Credenciamento de
-                                Docentes</h3>
-                            <div class="botao-bloco">
-                                <a href="#" role="button" class="btn btn-access">Acessar</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-
-            <div class="row">
-                <div class="col">
-                    <div class="card text-white bg-dark" style="max-width: 20rem; margin-top: 40px;">
-                        <div class="card-header"></div>
-                        <div class="card-body">
-                            <h3 class="card-title"><i class="fas fa-check-circle"></i><br>Certificados</h3>
-                            <p class="card-text">Verifique o seu certificado</p>
-                            <div class="botao-bloco">
-                                <a href="#" role="button" class="btn btn-access">Acessar</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="card text-white bg-dark" style="max-width: 20rem; margin-top: 40px; ">
-                        <div class="card-header"></div>
-                        <div class="card-body">
-                            <h3 class="card-title"><i class="far fa-envelope"></i><br>E-Mail Institucional</h3>
-                            <p class="card-text">Acesse o Zimbra</p>
-                            <div class="botao-bloco">
-                                <a href="#" role="button" class="btn btn-access">Acessar</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col">
-                    <div class="card text-white bg-dark" style="max-width: 20rem; margin-top: 40px; ">
-                        <div class="card-header"></div>
-                        <div class="card-body">
-                            <h3 class="card-title"><i class="fas fa-bullhorn"></i><br>Boletim Informativo</h3>
-                            <p class="card-text"></p>
-                            <div class="botao-bloco">
-                                <a href="#" role="button" class="btn btn-access">Acessar</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+        <div class="row mx-auto">
+        <div class="col">
+            <a href="#"><img src="assets/images/iesp2.png" alt=""></a>
         </div>
-
-    </section> -->
+        <div class="col">
+            <a href="#"><img src="assets/images/iesp3.png" alt=""></a>
+        </div>
+        <div class="col">
+            <a href="#"><img src="assets/images/iesp4.png" alt="" ></a>
+        </div>
+        <div class="col">
+            <a href="#"><img src="assets/images/iesp5.png" alt=""></a>
+        </div>
+        <div class="col">
+            <a href="#"><img src="assets/images/iesp6.png" alt=""></a>
+        </div>
+        <div class="col">
+            <a href="#"><img src="assets/images/iesp7.png" alt="" ></a>
+        </div>
+        </div>
+    </section>
 
     <section>
         <div class="container noticia_letra">
