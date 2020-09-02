@@ -1,4 +1,5 @@
-![enter image description here](http://www.iesp.pa.gov.br/sites/default/files/iesp-logo_0_0.png)
+
+
  <h1 align="center">Novo Site do IESP</h1>
 <h3 align="center"> INTRODUÇÃO 📝</h3>
 <p align="justify"> O Instituto de Ensino de Segurança do Pará - IESP é uma unidade de ensino com gestão própria, autonomia didática, científica e disciplinar, mantida pela Secretaria de Estado de Segurança Pública e Defesa Social - SEGUP.</p>
